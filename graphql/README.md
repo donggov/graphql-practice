@@ -1,4 +1,4 @@
-# GraphQL
+# GraphQL with DataFetcher
 - `allBooks`
 `{
    allBooks {
